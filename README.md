@@ -1,7 +1,7 @@
 # <img src="https://cdn.simpleicons.org/powershell" width="28" alt="PowerShell"> VaporWareXE Lite v4
 
 [![Version](https://img.shields.io/badge/Version-v4-blue?style=flat-square)](https://github.com/VaporwareXE/Vaporware-XE-Lite)
-[![Status](https://img.shields.io/badge/Status-Final-red?style=flat-square)](https://github.com/VaporwareXE/Vaporware-XE-Lite)
+[![Status](https://img.shields.io/badge/Status-Abandoned-red?style=flat-square)](https://github.com/VaporwareXE/Vaporware-XE-Lite)
 [![Fork](https://img.shields.io/badge/Fork-Official-green?style=flat-square)](https://github.com/VaporwareXE/Vaporware-XE-Lite)
 
 > **NOTE:** This repository is an **official fork** of [`VaporwareXE/Vaporware-XE-Lite:main`](https://github.com/VaporwareXE/Vaporware-XE-Lite/tree/main).
@@ -20,9 +20,9 @@ The original project holders left GitHub without notifying everyone, and the ori
 
 VaporWareXE Lite is **no longer maintained and will never receive another update**.
 
-The original Vaporware project was eventually **moved and replaced by NiggaHub**, which became the active continuation of the broader project.
+The original Vaporware project was **moved and replaced by NiggaHub**, which became the active continuation of the broader project.
 
-NiggaHub was later moved from GitHub to **Codeberg**, where the current project is maintained.
+NiggaHub was later moved from GitHub to **Codeberg**, where the current project continues.
 
 ---
 
@@ -43,9 +43,11 @@ There will be:
 * No maintenance releases
 * No further development
 
-**VaporWareXE Lite should be treated as archived software.**
+**VaporWareXE Lite should be treated as permanently discontinued software.**
 
-The current maintainers of the successor project, **vrarri and 7zippy, do not maintain VaporWareXE Lite and do not intend to update it.**
+There is **no active support for VaporWareXE Lite**.
+
+The people now maintaining NiggaHub have moved on to the successor project and **do not maintain, develop, or update VaporWareXE Lite**.
 
 ---
 
@@ -136,7 +138,9 @@ This repository is an official fork of:
 **Original repository:**
 https://github.com/VaporwareXE/Vaporware-XE-Lite
 
-> **Status:** Abandoned / Defunct / No Longer Maintained
+> **Status:** Abandoned / Defunct / Permanently Discontinued
+> **Support:** None
+> **Future Updates:** None
 
 ### Current Successor — NiggaHub
 
@@ -239,7 +243,7 @@ NiggaHub
        └── Current successor / replacement
 ```
 
-VaporWareXE Lite remains the **historical and discontinued project**, with **v4 being its final version**.
+VaporWareXE Lite remains the **historical and permanently discontinued project**, with **v4 being its final version**.
 
 NiggaHub is the **current successor and replacement** for the broader Vaporware project.
 
@@ -253,7 +257,9 @@ NiggaHub is the **current successor and replacement** for the broader Vaporware 
 
 vrarri is the **lead maintainer of the current successor project, NiggaHub**.
 
-vrarri is **not a maintainer of VaporWareXE Lite**. VaporWareXE Lite is abandoned and will not be updated.
+vrarri is **not a maintainer of VaporWareXE Lite**.
+
+VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-vrarri-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/vrarri)
 [![Bluesky](https://img.shields.io/badge/Bluesky-vrarri-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/vrarri.eurosky.tech)
@@ -274,7 +280,7 @@ https://x.com/4zx16_
 
 vrarri is generally highly inactive and may rarely respond to direct messages.
 
-For **current NiggaHub support or maintenance questions**, vrarri is the project's **lead maintainer**.
+For **current NiggaHub support and maintenance**, vrarri is the project's **lead maintainer**.
 
 ---
 
@@ -284,7 +290,9 @@ For **current NiggaHub support or maintenance questions**, vrarri is the project
 
 7zippy is the **secondary lead maintainer of the current successor project, NiggaHub**.
 
-7zippy is **not a maintainer of VaporWareXE Lite**. VaporWareXE Lite is abandoned and will not be updated.
+7zippy is **not a maintainer of VaporWareXE Lite**.
+
+VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-7zippy-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy)
 [![YouTube](https://img.shields.io/badge/YouTube-7zh14-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/@7zh14)
@@ -301,26 +309,26 @@ https://7zh14-dev.carrd.co/
 
 The Carrd page serves as a broader profile and links page and contains additional links.
 
-For **current NiggaHub support or maintenance questions**, 7zippy is the project's **secondary lead maintainer**.
+For **current NiggaHub support and maintenance**, 7zippy is the project's **secondary lead maintainer**.
 
 ---
 
 ### 🇺🇸 Marcus — VaporwareXE
 
-**Role:** **Owner**
+**Role:** **Owner / NiggaHub Maintainer**
 
-Marcus, represented by the `VaporwareXE` account, is the **owner of the project**.
+Marcus, represented by the `VaporwareXE` account, is the **owner associated with the original project** and is now also a **maintainer of NiggaHub**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VaporwareXE-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/VaporwareXE)
 
 **GitHub:**
 https://github.com/VaporwareXE
 
-Marcus is associated with the original VaporWareXE Lite project and is identified as the **project owner**.
+Marcus is **not a support contact for VaporWareXE Lite**.
 
-The owner status does **not** mean that VaporWareXE Lite is still maintained.
+VaporWareXE Lite is abandoned and defunct, and there is **no active support for it**.
 
-**VaporWareXE Lite remains abandoned and defunct, regardless of ownership.**
+Marcus's current project involvement is with **NiggaHub**.
 
 ---
 
@@ -328,37 +336,35 @@ The owner status does **not** mean that VaporWareXE Lite is still maintained.
 
 ### VaporWareXE Lite
 
-**VaporWareXE Lite does not have active project support.**
+**There is no support for VaporWareXE Lite.**
 
-The project is abandoned and defunct.
+The project is permanently abandoned and defunct.
 
 * v4 is the final version
 * No future updates are planned
 * No future versions are planned
 * No active development is taking place
-* The project maintainers do not maintain or update VaporWareXE Lite
+* No active maintenance is taking place
+* No support team exists
+* The current NiggaHub maintainers do not maintain VaporWareXE Lite
 
-**Do not expect VaporWareXE Lite to receive updates or active maintenance.**
+**Do not contact the NiggaHub maintainers expecting VaporWareXE Lite to be fixed or updated.**
+
+There is simply **no active VaporWareXE Lite support channel**.
 
 ### Current Project — NiggaHub
 
 For **NiggaHub**, the current successor project, the maintainers are:
 
-| Person     | Role                          | Project  |
-| ---------- | ----------------------------- | -------- |
-| **vrarri** | **Lead Maintainer**           | NiggaHub |
-| **7zippy** | **Secondary Lead Maintainer** | NiggaHub |
+| Priority | Person                   | Role                          |
+| -------: | ------------------------ | ----------------------------- |
+|    **1** | **vrarri**               | **Lead Maintainer**           |
+|    **2** | **7zippy**               | **Secondary Lead Maintainer** |
+|    **3** | **Marcus / VaporwareXE** | **Maintainer / Owner**        |
 
-These are the people associated with maintaining the current successor project.
+These contacts apply to **NiggaHub**, not VaporWareXE Lite.
 
 > **Availability is not guaranteed.** vrarri is generally highly inactive and may rarely respond to direct messages.
-
-### Owner
-
-**Marcus / VaporwareXE**
-https://github.com/VaporwareXE
-
-Marcus is the **owner**, but ownership should not be interpreted as active maintenance of VaporWareXE Lite.
 
 ---
 
@@ -368,6 +374,8 @@ Marcus is the **owner**, but ownership should not be interpreted as active maint
 * VaporWareXE Lite is **abandoned and defunct**.
 * **VaporWareXE Lite will never receive another update.**
 * There will be no official v5.
+* There is **no support for VaporWareXE Lite**.
+* There is no active maintenance of VaporWareXE Lite.
 * This repository is an **official fork**.
 * **Only `README.md` was changed in this fork.**
 * No source code was modified.
@@ -379,8 +387,8 @@ Marcus is the **owner**, but ownership should not be interpreted as active maint
 * NiggaHub later moved from GitHub to **Codeberg**.
 * **vrarri is the lead maintainer of NiggaHub.**
 * **7zippy is the secondary lead maintainer of NiggaHub.**
-* **Marcus / VaporwareXE is the owner.**
-* vrarri and 7zippy **do not maintain or update VaporWareXE Lite**.
+* **Marcus / VaporwareXE is an owner and maintainer of NiggaHub.**
+* The NiggaHub maintainers do **not** maintain VaporWareXE Lite.
 * NiggaHub's contents are continuously changing.
 * This README intentionally does not maintain a static NiggaHub resource inventory.
 * The live NiggaHub repository is the source of truth for the current project.
@@ -402,6 +410,9 @@ Marcus is the **owner**, but ownership should not be interpreted as active maint
 | Final Version                      | **v4**                               |
 | Project Status                     | **Abandoned / Defunct**              |
 | Future Updates                     | **None**                             |
+| Future Versions                    | **None**                             |
+| Support                            | **None**                             |
+| Maintenance                        | **None**                             |
 | Development                        | **Discontinued**                     |
 | Fork                               | **Official**                         |
 | Fork Changes                       | **README only**                      |
@@ -410,8 +421,7 @@ Marcus is the **owner**, but ownership should not be interpreted as active maint
 | Successor Location                 | **Codeberg**                         |
 | NiggaHub Lead Maintainer           | **vrarri**                           |
 | NiggaHub Secondary Lead Maintainer | **7zippy**                           |
-| Owner                              | **Marcus / VaporwareXE**             |
-| VaporWareXE Lite Maintenance       | **None**                             |
+| NiggaHub Maintainer / Owner        | **Marcus / VaporwareXE**             |
 | Static NiggaHub List               | **Not maintained**                   |
 | Current Source of Truth            | **NiggaHub**                         |
 
@@ -423,20 +433,17 @@ Marcus is the **owner**, but ownership should not be interpreted as active maint
 
 [![VaporWareXE Lite](https://img.shields.io/badge/VaporWareXE%20Lite-v4-181717?style=flat-square\&logo=powershell\&logoColor=white)](https://github.com/VaporwareXE/Vaporware-XE-Lite)
 
-**VaporWareXE Lite v4 — Final and discontinued version**
+**VaporWareXE Lite v4 — Final, abandoned, and defunct version**
 
 ### Current Successor
 
 [![NiggaHub](https://img.shields.io/badge/NiggaHub-Current%20Successor-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy/niggahub)
 
-### Current Maintainers
+### Current NiggaHub Maintainers
 
 * **vrarri** — Lead Maintainer
 * **7zippy** — Secondary Lead Maintainer
-
-### Owner
-
-* **Marcus / VaporwareXE** — Owner
+* **Marcus / VaporwareXE** — Maintainer / Owner
 
 ---
 
