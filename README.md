@@ -264,19 +264,6 @@ VaporWareXE Lite is abandoned, defunct, and will never be updated.
 [![Codeberg](https://img.shields.io/badge/Codeberg-vrarri-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/vrarri)
 [![Bluesky](https://img.shields.io/badge/Bluesky-vrarri-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/vrarri.eurosky.tech)
 [![Mastodon](https://img.shields.io/badge/Mastodon-vrarri-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://mastodon.social/@vrarri@ieji.de)
-[![X](https://img.shields.io/badge/X-4zx16_-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/4zx16_)
-
-**Codeberg:**
-https://codeberg.org/vrarri
-
-**Bluesky:**
-https://bsky.app/profile/vrarri.eurosky.tech
-
-**Mastodon:**
-https://mastodon.social/@vrarri@ieji.de
-
-**X:**
-https://x.com/4zx16_
 
 vrarri is generally highly inactive and may rarely respond to direct messages.
 
@@ -298,15 +285,6 @@ VaporWareXE Lite is abandoned, defunct, and will never be updated.
 [![YouTube](https://img.shields.io/badge/YouTube-7zh14-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/@7zh14)
 [![About Me](https://img.shields.io/badge/About%20Me-Carrd-596CAF?style=flat-square\&logo=carrd\&logoColor=white)](https://7zh14-dev.carrd.co/)
 
-**Codeberg:**
-https://codeberg.org/7zippy
-
-**YouTube:**
-https://www.youtube.com/@7zh14
-
-**About Me / Links:**
-https://7zh14-dev.carrd.co/
-
 The Carrd page serves as a broader profile and links page and contains additional links.
 
 For **current NiggaHub support and maintenance**, 7zippy is the project's **secondary lead maintainer**.
@@ -320,9 +298,6 @@ For **current NiggaHub support and maintenance**, 7zippy is the project's **seco
 Marcus, represented by the `VaporwareXE` account, is the **owner associated with the original project** and is now also a **maintainer of NiggaHub**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VaporwareXE-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/VaporwareXE)
-
-**GitHub:**
-https://github.com/VaporwareXE
 
 Marcus is **not a support contact for VaporWareXE Lite**.
 
