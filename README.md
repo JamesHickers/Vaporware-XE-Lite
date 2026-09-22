@@ -255,7 +255,7 @@ VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-vrarri-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/vrarri)
 [![Bluesky](https://img.shields.io/badge/Bluesky-vrarri-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/vrarri.eurosky.tech)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40vrarri%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://mastodon.social/@vrarri@ieji.de)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40vrarri%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/@vrarri)
 [![Lemmy](https://img.shields.io/badge/Lemmy-dbzer0.com-1E9B50?style=flat-square\&logo=lemmy\&logoColor=white)](https://lemmy.dbzer0.com/)
 
 vrarri is generally highly inactive and may rarely respond to direct messages.
@@ -276,8 +276,8 @@ VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-7zippy-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40witchcraft.systems-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/witchcraft.systems)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40domum.social-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://domum.social/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/@zip)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40domum.social-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://domum.social/@zip)
 [![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/zippy)
 
 The Drift page serves as a broader profile and links page and contains additional information and links.
