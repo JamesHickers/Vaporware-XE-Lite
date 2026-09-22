@@ -274,8 +274,8 @@ For **current NiggaHub support and maintenance**, vrarri is the project's **lead
 VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-7zippy-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy)
-[![YouTube](https://img.shields.io/badge/YouTube-7zh14-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/@7zh14)
 [![Bluesky](https://img.shields.io/badge/Bluesky-zippyss-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/zippyss.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-zippys-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://zippys.mastodon.social)
 [![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/zippy)
 
 The Drift page serves as a broader profile and links page and contains additional information and links.
