@@ -291,6 +291,7 @@ For **current NiggaHub support and maintenance**, 7zippy is the project's **seco
 Marcus, represented by the `VaporwareXE` account, is the **owner associated with the original project** and is now also a **maintainer of NiggaHub**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VaporwareXE-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/VaporwareXE)
+[![Guns.lol](https://img.shields.io/badge/Guns.lol-9kx21-181717?style=flat-square)](https://guns.lol/9kx21)
 
 Marcus is **not a support contact for VaporWareXE Lite**.
 
