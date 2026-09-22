@@ -81,8 +81,6 @@ Because of this, this README intentionally does **not** contain a permanent stat
 
 ### Current Source of Truth
 
-[![Open NiggaHub](https://img.shields.io/badge/OPEN-NIGGAHUB-2ea44f?style=for-the-badge\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy/niggahub)
-
 **Repository:**
 https://codeberg.org/7zippy/niggahub
 
@@ -135,9 +133,6 @@ This repository is an official fork of:
 
 [![GitHub](https://img.shields.io/badge/GitHub-VaporwareXE%2FVaporware--XE--Lite-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/VaporwareXE/Vaporware-XE-Lite)
 
-**Original repository:**
-https://github.com/VaporwareXE/Vaporware-XE-Lite
-
 > **Status:** Abandoned / Defunct / Permanently Discontinued
 > **Support:** None
 > **Future Updates:** None
@@ -145,9 +140,6 @@ https://github.com/VaporwareXE/Vaporware-XE-Lite
 ### Current Successor — NiggaHub
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-NiggaHub-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy/niggahub)
-
-**Current repository:**
-https://codeberg.org/7zippy/niggahub
 
 > **Status:** Active successor project
 
@@ -283,9 +275,10 @@ VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-7zippy-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy)
 [![YouTube](https://img.shields.io/badge/YouTube-7zh14-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/@7zh14)
-[![About Me](https://img.shields.io/badge/About%20Me-Carrd-596CAF?style=flat-square\&logo=carrd\&logoColor=white)](https://7zh14-dev.carrd.co/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-zippyss-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/zippyss.bsky.social)
+[![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/zippy)
 
-The Carrd page serves as a broader profile and links page and contains additional links.
+The Drift page serves as a broader profile and links page and contains additional information and links.
 
 For **current NiggaHub support and maintenance**, 7zippy is the project's **secondary lead maintainer**.
 
@@ -373,8 +366,6 @@ These contacts apply to **NiggaHub**, not VaporWareXE Lite.
 ## Current Successor
 
 [![Open NiggaHub](https://img.shields.io/badge/OPEN-NIGGAHUB-2ea44f?style=for-the-badge\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy/niggahub)
-
-**https://codeberg.org/7zippy/niggahub**
 
 ---
 
