@@ -253,13 +253,13 @@ vrarri is **not a maintainer of VaporWareXE Lite**.
 
 VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
+[![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/vrar)
+[![Carrd](https://img.shields.io/badge/Carrd-vrarri-596CAF?style=flat-square)](https://vrarri.carrd.co/)
 [![Codeberg](https://img.shields.io/badge/Codeberg-vrarri-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/vrarri)
 [![Bluesky](https://img.shields.io/badge/Bluesky-vrarri-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/vrarri.eurosky.tech)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40vrarri%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/@vrarri)
 [![Lemmy](https://img.shields.io/badge/Lemmy-%40vrarri%40sopuli.xyz-1E9B50?style=flat-square&logo=lemmy&logoColor=white)](https://sopuli.xyz/u/vrarri)
 [![Matrix](https://img.shields.io/badge/Matrix-sophia%3Aunredacted.org-000000?logo=matrix&logoColor=white)](https://matrix.to/#/sophia:unredacted.org)
-[![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/vrar)
-[![Carrd](https://img.shields.io/badge/Carrd-vrarri-596CAF?style=flat-square)](https://vrarri.carrd.co/)
 
 > **Former About Me:** `drift.rip/vrarri` — vrarri has stated that they lost access to the old account and no longer have access to the email associated with it.
 
@@ -279,13 +279,11 @@ For **current NiggaHub support and maintenance**, vrarri is the project's **lead
 
 VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
-[![Codeberg](https://img.shields.io/badge/Codeberg-7zippy-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%40zippyss%40eurosky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/zippyss.eurosky.social)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%40witchcraft.systems-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/witchcraft.systems)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/@zip)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40domum.social-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://domum.social/@zip)
 [![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/zippy)
 [![Carrd](https://img.shields.io/badge/Carrd-7zh14-596CAF?style=flat-square)](https://7zh14.carrd.co/)
+[![Codeberg](https://img.shields.io/badge/Codeberg-7zippy-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40zippyss%40eurosky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/zippyss.eurosky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40domum.social-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://domum.social/@zip)
 [![Lemmy](https://img.shields.io/badge/Lemmy-%40zippyss%40monero.town-1E9B50?style=flat-square&logo=lemmy&logoColor=white)](https://monero.town/u/zippyss)
 [![Matrix](https://img.shields.io/badge/Matrix-resurp%3Aunredacted.org-000000?logo=matrix&logoColor=white)](https://matrix.to/#/resurp:unredacted.org)
 [![X](https://img.shields.io/badge/X-002FramesK-000000?logo=x&logoColor=white)](https://x.com/002FramesK)
