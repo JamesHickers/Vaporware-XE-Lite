@@ -256,7 +256,7 @@ VaporWareXE Lite is abandoned, defunct, and will never be updated.
 [![Codeberg](https://img.shields.io/badge/Codeberg-vrarri-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/vrarri)
 [![Bluesky](https://img.shields.io/badge/Bluesky-vrarri-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/vrarri.eurosky.tech)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40vrarri%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/@vrarri)
-[![Lemmy](https://img.shields.io/badge/Lemmy-dbzer0.com-1E9B50?style=flat-square\&logo=lemmy\&logoColor=white)](https://lemmy.dbzer0.com/)
+[![Lemmy](https://img.shields.io/badge/Lemmy-%40vrarri%40sopuli.xyz-1E9B50?style=flat-square&logo=lemmy&logoColor=white)](https://sopuli.xyz/u/vrarri)
 
 vrarri is generally highly inactive and may rarely respond to direct messages.
 
