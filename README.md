@@ -257,6 +257,9 @@ VaporWareXE Lite is abandoned, defunct, and will never be updated.
 [![Bluesky](https://img.shields.io/badge/Bluesky-vrarri-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/vrarri.eurosky.tech)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40vrarri%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/@vrarri)
 [![Lemmy](https://img.shields.io/badge/Lemmy-%40vrarri%40sopuli.xyz-1E9B50?style=flat-square&logo=lemmy&logoColor=white)](https://sopuli.xyz/u/vrarri)
+[![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/vrar)
+
+> **Former About Me:** `drift.rip/vrarri` — vrarri has stated that they lost access to the old account and no longer have access to the email associated with it.
 
 vrarri is generally highly inactive and may rarely respond to direct messages.
 
