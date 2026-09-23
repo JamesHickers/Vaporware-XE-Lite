@@ -275,10 +275,12 @@ For **current NiggaHub support and maintenance**, vrarri is the project's **lead
 VaporWareXE Lite is abandoned, defunct, and will never be updated.
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-7zippy-2185D0?style=flat-square\&logo=codeberg\&logoColor=white)](https://codeberg.org/7zippy)
-[[![Bluesky](https://img.shields.io/badge/Bluesky-%40witchcraft.systems-0285FF?style=flat-square\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/witchcraft.systems)](https://bsky.app/profile/zippyss.eurosky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40zippyss%40eurosky.social-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/zippyss.eurosky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40witchcraft.systems-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/witchcraft.systems)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40ieji.de-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://ieji.de/@zip)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40zip%40domum.social-6364FF?style=flat-square\&logo=mastodon\&logoColor=white)](https://domum.social/@zip)
 [![About Me](https://img.shields.io/badge/About%20Me-Drift-596CAF?style=flat-square)](https://drift.rip/zippy)
+[![Lemmy](https://img.shields.io/badge/Lemmy-%40zippyss%40monero.town-1E9B50?style=flat-square&logo=lemmy&logoColor=white)](https://monero.town/u/zippyss)
 
 The Drift page serves as a broader profile and links page and contains additional information and links.
 
